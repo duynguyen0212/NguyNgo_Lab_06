@@ -15,6 +15,7 @@ public class Orchestra<T> implements Iterable<T> {
     int counter = 0;
     int newSize;
 
+
     /**
      * Add an instrument to the array
      * Increase array's size by 50% when array is full
